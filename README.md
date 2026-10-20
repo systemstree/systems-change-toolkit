@@ -1,2 +1,27 @@
 # systems-change-toolkit
-Resources are for information purposes only, no endorsement is implied. SystemsTree can't guarantee the applicability of the resources.
+This toolkit contains the necessary resources for you to get equipped with systems thinking and how to apply it in your change projects for building sustainable tech.
+Resources are for information purposes only, no endorsement is implied. 
+
+## Systems Thinking Books
+- [The Fifth Discipline by Peter Senge](https://systemdynamics.org/product/the-fifth-discipline/)
+- [Thinking in Systems by Donella Meadows](https://systemdynamics.org/product/thinking-in-systems-a-primer/)
+- [Business Dynamics by John D. Sterman](https://systemdynamics.org/product/business-dynamics-systems-thinking-and-modeling-for-a-complex-world/)
+- [Systems Thinking for Social Change by David Peter Stroh](https://systemdynamics.org/product/systems-thinking-for-social-change/)
+- [Systems Change Approaches to Making Change by Martin Reynolds and Sue Holwell](https://www.awesomebooks.com/book/9781447174714/systems-approaches-to-making-change-a-practical-guide/used)
+- [An Introduction to General Systems Thinking by Gerald M. Weinberg](https://geraldmweinberg.com/Site/General_Systems.html)
+- [The Systems Thinking Playbook: Exercises to Stretch and Build Learning and Systems Thinking Capabilities by Linda Booth Sweeney](https://systemdynamics.org/product/the-systems-thinking-playbook/)
+  
+## Systems Thinking Articles and Publications
+- [Articles of Donella Meadows](https://donellameadows.org/donella-meadows-legacy/danas-writing/articles-donella-meadows/) - Articles Donella Meadows wrote between 1988 and her death in 2001, organized alphabetically by The Donella Meadows Project
+
+## Systems Archetypes References
+- [Systems Archetypes I: Diagnosing Systemic Issues and Designing High-Leverage Interventions](https://thesystemsthinker.com/wp-content/uploads/2016/03/Systems-Archetypes-I-TRSA01_pk.pdf)
+
+## Systems Thinking Books for Software Professionals 
+- [Learning Systems Thinking: Essential Nonlinear Skills and Practices for Software Professionals by Diana Montalion](https://gotopia.tech/books/100/learning-system-thinking-essential-nonlinear-skills-and-practices-for-software-professionals)
+
+## Systems thinking articles mentioned in technological companies
+- [Leadership Insights from "The Fifth Discipline: The Art and Practice of the Learning Organization" by Peter M. Senge](https://www.businessofgovernment.org/blog/leadership-insights-fifth-discipline-art-and-practice-learning-organization-peter-m-senge)
+
+
+
