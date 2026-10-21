@@ -13,6 +13,12 @@ Resources are for information purposes only, no endorsement is implied.
   
 ## Systems Thinking Articles and Publications
 - [Articles of Donella Meadows](https://donellameadows.org/donella-meadows-legacy/danas-writing/articles-donella-meadows/) - Articles Donella Meadows wrote between 1988 and her death in 2001, organized alphabetically by The Donella Meadows Project
+- [A Conceptual Framework for Ecological Economics Based on Systemic Principles of Life](https://www.fritjofcapra.net/a-conceptual-framework-for-ecological-economics-based-on-systemic-principles-of-life/)
+- [Systems Thinking and Organizational Learning: Acting Locally and Thinking Globally in the Organization of the Future by Peter M. Senge and John D. Sterman](https://proceedings.systemdynamics.org/1990/proceed/pdfs/senge1007.pdf)
+- [Leverage Points: Places to Intervene in a System by Donella Meadows](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
+
+## Applying Systems Thinking to Sustainability
+- [Systems thinking as a paradigm shift for sustainability transformation by N. Voulvoulis, T. Giakoumis, C. Hunt, V. Kioupi, N. Petrou, I. Souliotis, C. Vaghela, WIH. binti Wan Rosely](https://www.sciencedirect.com/science/article/pii/S0959378022000826)
 
 ## Systems Archetypes References
 - [Systems Archetypes I: Diagnosing Systemic Issues and Designing High-Leverage Interventions](https://thesystemsthinker.com/wp-content/uploads/2016/03/Systems-Archetypes-I-TRSA01_pk.pdf)
