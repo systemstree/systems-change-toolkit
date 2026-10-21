@@ -31,8 +31,13 @@ Resources are for information purposes only, no endorsement is implied.
 - [Systems Thinking, Episode #0 What is Systems Thinking and Why Should I Care? by Roland Flemm](https://www.scrum.org/resources/blog/systems-thinking-episode-0-what-systems-thinking-and-why-should-i-care)
 - [Systems Thinking in Organizational Coaching by Ilia Pavlichenko](https://www.scrum.org/resources/blog/systems-thinking-organizational-coaching)
   
-## Systems thinking articles mentioned in technological companies
+## Systems Thinking Articles Mentioned in Technological Companies
 - [Leadership Insights from "The Fifth Discipline: The Art and Practice of the Learning Organization" by Peter M. Senge](https://www.businessofgovernment.org/blog/leadership-insights-fifth-discipline-art-and-practice-learning-organization-peter-m-senge)
+
+## Open Source Tools
+- [Loopy by Nicky Case](https://ncase.me/loopy/)
+- [Kumu](https://kumu.io)
+
 
 
 
