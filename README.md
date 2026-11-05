@@ -38,6 +38,13 @@ Resources are for information purposes only, no endorsement is implied.
 - [Loopy by Nicky Case](https://ncase.me/loopy/)
 - [Kumu](https://kumu.io)
 
+## Responsible AI and AI Ethics Research Papers to Identify Systems Archetypes
+- "Whelp, called it. Coercive dependence via bundling. Capitalism's response to people not actually wanting their products is always, always the creation & enforcement of coercive dependence, including via state regulation. That's the whole business model." - Prof Julia Steinberger
+[The political economy of car dependence: A systems of provision approach](https://www.sciencedirect.com/science/article/pii/S2214629620300633?via%3Dihub)
+- [AI Agents Push Humans Out of the Loop by Margaret Mitchell, Avijit Ghosh, Samir Passi](https://arxiv.org/abs/2608.23642)
+- [How LLMs Distort Our Written Language by Marwa Abdulhai, Isadora White, Yanming Wan, Ibrahim Qureshi, Joel Z. Leibo, Max Kleiman-Weiner, Natasha Jaques](https://arxiv.org/abs/2603.18161)
+- [Ironies of Automation by LISANNE BAINBRIDGE](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf)
+- [The Irrational Decision: How We Gave Computers the Power to Choose for Us. By Benjamin Recht. Princeton University Press, 2026. 280 pp.](https://read.dukeupress.edu/critical-ai/article/doi/10.1215/2834703X-12689810/413906/The-Irrational-Decision-How-We-Gave-Computers-the)
 
 
 
