@@ -44,6 +44,7 @@ Resources are for information purposes only, no endorsement is implied.
 ## Open Source Tools
 - [Loopy by Nicky Case](https://ncase.me/loopy/)
 - [Kumu](https://kumu.io)
+- [Simcision](https://simcision.com/)
 
 ## Responsible AI and AI Ethics Research Papers to Identify Systems Archetypes
 - "Whelp, called it. Coercive dependence via bundling. Capitalism's response to people not actually wanting their products is always, always the creation & enforcement of coercive dependence, including via state regulation. That's the whole business model." - Prof Julia Steinberger
