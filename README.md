@@ -14,6 +14,7 @@ Resources are for information purposes only, no endorsement is implied.
 - [The Systems Thinking Playbook: Exercises to Stretch and Build Learning and Systems Thinking Capabilities by Linda Booth Sweeney](https://systemdynamics.org/product/the-systems-thinking-playbook/)
 - [Systems Thinking for Curious Managers: With 40 New Management f-Laws by Russell Ackoff](http://archive.org/details/systemsthinkingf0000acko)
 - [The Limits to Growth by Donella H. Meadows, Dennis L. Meadows, Jørgen Randers, William Behrens III](https://www.clubofrome.org/publication/the-limits-to-growth/)
+- [Cynefin - Weaving Sense-Making into the Fabric of Our World by Dave Snowden](https://thecynefin.co/library/cynefin-weaving-sense-making-into-the-fabric-of-our-world/)
   
 ## Systems Thinking Articles and Publications
 - [Articles of Donella Meadows](https://donellameadows.org/donella-meadows-legacy/danas-writing/articles-donella-meadows/) - Articles Donella Meadows wrote between 1988 and her death in 2001, organized alphabetically by The Donella Meadows Project
