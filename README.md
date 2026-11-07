@@ -11,6 +11,8 @@ Resources are for information purposes only, no endorsement is implied.
 - [Systems Change Approaches to Making Change by Martin Reynolds and Sue Holwell](https://www.awesomebooks.com/book/9781447174714/systems-approaches-to-making-change-a-practical-guide/used)
 - [An Introduction to General Systems Thinking by Gerald M. Weinberg](https://geraldmweinberg.com/Site/General_Systems.html)
 - [The Systems Thinking Playbook: Exercises to Stretch and Build Learning and Systems Thinking Capabilities by Linda Booth Sweeney](https://systemdynamics.org/product/the-systems-thinking-playbook/)
+- [Systems Thinking for Curious Managers: With 40 New Management f-Laws by Russell Ackoff](http://archive.org/details/systemsthinkingf0000acko)
+- [The Limits to Growth by Donella H. Meadows, Dennis L. Meadows, Jørgen Randers, William Behrens III](https://www.clubofrome.org/publication/the-limits-to-growth/)
   
 ## Systems Thinking Articles and Publications
 - [Articles of Donella Meadows](https://donellameadows.org/donella-meadows-legacy/danas-writing/articles-donella-meadows/) - Articles Donella Meadows wrote between 1988 and her death in 2001, organized alphabetically by The Donella Meadows Project
@@ -18,7 +20,12 @@ Resources are for information purposes only, no endorsement is implied.
 - [Systems Thinking and Organizational Learning: Acting Locally and Thinking Globally in the Organization of the Future by Peter M. Senge and John D. Sterman](https://proceedings.systemdynamics.org/1990/proceed/pdfs/senge1007.pdf)
 - [Why Few Organizations Adopt Systems Thinking](https://thesystemsthinker.com/why-few-organizations-adopt-systems-thinking/)
 - [Leverage Points: Places to Intervene in a System by Donella Meadows](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
+- [Russell Ackoff on Systems Thinking in Organizations](https://www.ndma.com/resource/ndm30686.htm)
+- [The Systems View of Life: A Unifying Vision by Fritjof Capra and Pier Luigi Luisi](https://www.goodreads.com/book/show/18554985-the-systems-view-of-life)
 
+
+## Books that Take a Systemic View of the Current Reality of Climate Change
+- [This Changes Everything: Capitalism vs. The Climate by Naomi Klein](https://www.goodreads.com/book/show/21913812-this-changes-everything#CommunityReviews)
 
 ## Applying Systems Thinking to Sustainability
 - [Systems thinking as a paradigm shift for sustainability transformation by N. Voulvoulis, T. Giakoumis, C. Hunt, V. Kioupi, N. Petrou, I. Souliotis, C. Vaghela, WIH. binti Wan Rosely](https://www.sciencedirect.com/science/article/pii/S0959378022000826)
