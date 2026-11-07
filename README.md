@@ -8,6 +8,7 @@ Resources are for information purposes only, no endorsement is implied.
 - [Business Dynamics by John D. Sterman](https://systemdynamics.org/product/business-dynamics-systems-thinking-and-modeling-for-a-complex-world/)
 - [The art of problem solving : accompanied by Ackoff's fables](https://books.google.co.in/books/about/The_Art_of_Problem_Solving.html?id=2qu8EK7ickIC&redir_esc=y)
 - [Systems Thinking for Social Change by David Peter Stroh](https://systemdynamics.org/product/systems-thinking-for-social-change/)
+- [Theory U: Leading from the Future as it Emerges by C. Otto Scharmer](https://www.amazon.com/Theory-Leading-Emerges-Otto-Scharmer/dp/1626567980/ref=tmm_pap_swatch_0)
 - [Systems Change Approaches to Making Change by Martin Reynolds and Sue Holwell](https://www.awesomebooks.com/book/9781447174714/systems-approaches-to-making-change-a-practical-guide/used)
 - [An Introduction to General Systems Thinking by Gerald M. Weinberg](https://geraldmweinberg.com/Site/General_Systems.html)
 - [The Systems Thinking Playbook: Exercises to Stretch and Build Learning and Systems Thinking Capabilities by Linda Booth Sweeney](https://systemdynamics.org/product/the-systems-thinking-playbook/)
